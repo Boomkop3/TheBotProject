@@ -1,0 +1,3 @@
+[submodule "runtime"]
+	path = runtime
+	url = https://github.com/Boomkop3/docker-nodejs-runtime-x86-.git
